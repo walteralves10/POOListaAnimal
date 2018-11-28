@@ -1,6 +1,6 @@
 
 import java.util.Scanner;
-
+//Exercicio 04
 public class Zoologico{
     
     private String jaula[];
