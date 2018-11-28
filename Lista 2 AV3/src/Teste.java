@@ -14,7 +14,9 @@ public class Teste {
         Zoologico zoo = new Zoologico();
         //zoo.alocaJaula(guedes);
         //-----------------------------------
-        
+        //Exercicio 5 e 6
+        //Funcionarios func = new Funcionarios("Uni RV");
+        //-----------------------------------
         
     }
 
